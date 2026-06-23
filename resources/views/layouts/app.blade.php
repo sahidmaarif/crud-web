@@ -13,6 +13,10 @@
         <a class="navbar-brand" href="#">Laravel CRUD</a>
 
         <div>
+
+            <a href="/" class="btn btn-light">
+             Dashboard
+            </a>
             <a href="{{ route('categories.index') }}"
                class="btn btn-light">
                 Kategori
